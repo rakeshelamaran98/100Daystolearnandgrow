@@ -1,0 +1,130 @@
+Day21
+
+✔️Got my Hall of Fame in HubSpot
+✔️Exploiting Subdomain takeover
+✔️Learnt about Deploying Website in Netlify
+
+Day22
+
+✔️Gone through bug bounty writeups
+✔️Knockpy tool
+✔️Learnt about Method types , string and its operations,Control flow statements in Java
+
+Day23
+
+✔️Reported one Bug
+✔️Introduction about Dark web
+✔️Learnt about how virus spreads and some virus include shamoon in 2012,Rombertik in 2015,wannacry in 2017
+
+Day24
+
+✔️Got my hall of fame in Under Armour
+✔️Reported one Bug
+✔️Learnt about common types of computer virus
+
+Day25
+
+✔️Got my Hall of fame in WestJet
+✔️Security Policies and Access control
+✔️Learnt about Aws Security Architecture overview
+
+Day26
+
+✔️DirSearch Tool
+✔️Assessing System Security
+✔️Learnt about Code Scanning Tools
+
+
+Day27
+
+✔️Sonarqube - Features,Pros&Cons
+✔️Security Standards - ISO,NIST,GDPR,PCI DSS
+✔️Research regarding android penetration testing
+
+Day28
+
+✔️Reported one Bug
+✔️Physical Security and recovery
+✔️Learnt about Collections - ArrayList, List, HashSet
+
+Day29
+
+✔️Reported 2 bugs
+✔️Got My Hall of Fame in Soundcloud
+✔️Learnt about Static code analysis and reasons to use
+✔️Technical debt
+
+Day30
+
+✔️Reported 2 bugs
+✔️Attackers Techniques
+✔️Difference between the deep web and 
+dark web and their myths
+✔Ways to protect our system from being hacked
+
+Day31
+
+Stepping into Cloud Security -> Share me some good resources if you have anything!
+
+✔️AWS Relational Database Sevice - Features,Instances and Security
+✔️How backups Work - Automatic,Manual
+✔️DB Parameter and option groups
+✔️TOR Security and online anonymity
+
+Day32
+
+✔️Reported 1 bug
+✔️RDS Multi-AZ Deployment
+✔️RDS Sample application architecture and Features
+
+Day33
+
+✔️Using Default credentials bug
+✔️Data Security Mechanism in cloud
+✔️Security planning for cloud 
+
+Day34
+
+✔️Overview of android penetration testing
+✔️Android architecture
+✔️Learnt about Packages,Thread and Multithreading in Java
+
+Day35
+
+✔️Android app development lifecycle and Components
+✔️Android Security architecture
+✔️Overview of Santoku OS
+
+Day36
+
+✔️Setup of Android Penetration Testing
+✔Installed Santoku Operating System
+✔️Overview of Secure coding practices
+
+Day37
+
+✔️Secure Coding Practice Checklist 1 - Input Validation
+✔Installed Genymotion 
+✔️Learnt about Insecure Redirect URI Bug
+
+Day38
+
+✔️Secure Coding Practice Checklist 2 - Output Encoding
+✔️Completed  Learn Linux room in tryhackme - Finding Last flag was Tricky!
+✔Deploy Sonarqube instance in local
+✔️Learnt about JDBC Connectivity,CRUD Operation in SQL and steps to connect
+
+Day39
+
+✔️Secure Coding Practice Checklist 3 - Authentication and password management
+✔️Solved Sql injection UNION attacks lab in portswigger
+✔Android Debug Bridge and its components
+✔️Learnt about how to Connect adb and check connected devices in santoku os
+
+Day40
+
+✔️Secure Coding Practice Checklist 4 - Session Management
+✔️Completed Vulneversity room in tryhackme - Easy and Interesting Room
+✔️Gobuster Directory Tool and Privilege Escalation 
+✔Android Debug Bridge - Find apk,External Storage
+✔️Learnt about how to Install and Uninstall apk in adb shell
