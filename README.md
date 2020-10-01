@@ -5,7 +5,6 @@ My 100 Days Learning Progress
 
 ## Day1 - Day20 
 
--
 
 ## Day21 - Day40
 
