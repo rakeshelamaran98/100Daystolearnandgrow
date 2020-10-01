@@ -1,40 +1,47 @@
 # 100Daystolearnandgrow
 My 100 Days Learning Progress
 
+## Day41
+
+- ✔️Secure Coding Practice checklist 5 - Access Control
+- ✔️Android Debug Bridge - Find packages,logs
+- ✔️Learnt about How to Pull and Push apk in adb shell
+
+## Day42
+
+- ✔️Secure Coding Practice checklist 6 - Cryptographic Practices
+- ✔️Learnt about Android Startup Process
+- ✔️Overview of Tails Operating System
+- ✔️Tor Browser Setup
+- ✔️Metasploit - Db Creation,connection,Console & Help Commands
+
+## Day43
+
+- ✔️Secure Coding Practice checklist 7- Error Handling and logging
+- ✔️Learnt about how android application .apk is built and how to extract files
+- ✔️AWS CloudTrial - Introduction and Usecases 
+- ✔️Metasploit - Framework Architecture and Modules
 
 
+## Day44
 
-
-Day43
-
-✔️Secure Coding Practice checklist 7- Error Handling and logging
-✔️Learnt about how android application .apk is built and how to extract files
-✔️AWS CloudTrial - Introduction and Usecases 
-✔️Metasploit - Framework Architecture and Modules
-
-#100daystolearnandgrow
-
-
-
-Day44
-
-✔️Secure Coding Practice checklist 8- Data Protection
-✔️Learnt about how to decompile android application using Android apk tool
-✔Metasploit - Icecast header,Lhost,Rhost
-✔️Overview of AWS - IAM 
-
-#100daystolearnandgrow
-
-Day45
-
-✔️Secure Coding Practice checklist 9 - Communication Security
-✔️Learnt about how to decompile android application using jadx tool
-✔Spring boot project components
-✔AWS - Restrict Access for user to single s3 Bucket using IAM Policies
+- ✔️Secure Coding Practice checklist 8- Data Protection
+- ✔️Learnt about how to decompile android application using Android apk tool
+- ✔Metasploit - Icecast header,Lhost,Rhost
+- ✔️Overview of AWS - IAM 
 
 #100daystolearnandgrow
 
-Day46
+## Day45
+
+- ✔️Secure Coding Practice checklist 9 - Communication Security
+- ✔️Learnt about how to decompile android application using jadx tool
+- ✔Spring boot project components
+- ✔AWS - Restrict Access for user to single s3 Bucket using IAM Policies
+
+#100daystolearnandgrow
+
+## Day46
 
 ✔️Secure Coding Practice checklist 9 - System Configuration
 ✔️Learnt about how to read java Source code and xml files using jadx GUI
