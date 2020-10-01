@@ -2,15 +2,7 @@
 My 100 Days Learning Progress
 
 
-Day42
 
-✔️Secure Coding Practice checklist 6 - Cryptographic Practices
-✔️Learnt about Android Startup Process
-✔️Overview of Tails Operating System
-✔️Tor Browser Setup
-✔️Metasploit - Db Creation,connection,Console & Help Commands
-
-#100daystolearnandgrow
 
 
 Day43
