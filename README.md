@@ -2,14 +2,6 @@
 My 100 Days Learning Progress
 
 
-Day41
-
-✔️Secure Coding Practice checklist 5 - Access Control
-✔️Android Debug Bridge - Find packages,logs
-✔️Learnt about How to Pull and Push apk in adb shell
-
-#100daystolearnandgrow
-
 Day42
 
 ✔️Secure Coding Practice checklist 6 - Cryptographic Practices
