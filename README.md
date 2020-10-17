@@ -3,7 +3,7 @@ My 100 Days Learning Progress
 
 - Divided 100Days into 5 Sections.Find the Section Above!
 
-- Streak Day 61 on 16/10/2020
+- Streak Day 62 on 17/10/2020
 
 ## Day1 - Day20 
 
