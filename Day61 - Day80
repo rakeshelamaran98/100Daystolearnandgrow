@@ -74,5 +74,41 @@ Day70
 ✔Oauth 2.0 and openID Connect - Overview
 ✔Raw Input in python
 
+Day71
+
+✔How to Discover Subdomains using Project Discovery
+✔Learnt how to enumerate Sub-domain,Status code & CIDR
+✔Python Functions and loops
+✔Httpx tool usage
+
+Day72
+
+✔Learnt about .bashrc file
+✔Intents and Intent filter in android
+✔Command Line arguments in python
+✔Starting a process in the background using Nohup
+
+Day73
+
+✔Learnt about Way back machine
+✔Cloud agility and cloud Resiliency
+✔Built a python tool that scans the first 1000 ports
+
+Day74
+
+✔DIVA - Hardcoding Issues using JNI
+✔Learnt about Java Native Interface
+✔Termux - Overview and Features
+✔Reported one Bug
+✔Shodan Search query
+
+Day75
+
+✔Started Learning Shell scripting - Introduction and how shell commands working
+✔Termux - Installation and Package Management
+✔DIVA - Dos attack using memory corruption issue
+✔Learnt about Skipfish tool
+
+
 
 
