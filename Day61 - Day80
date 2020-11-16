@@ -109,6 +109,43 @@ Day75
 ✔DIVA - Dos attack using memory corruption issue
 ✔Learnt about Skipfish tool
 
+Day76
+
+✔Learnt about crt.sh - Certificate Search
+✔Basic Shell Scripting commands
+✔Reported one Bug
+
+Day77
+
+✔Basic Termux Commands
+✔Learnt about F-Droid
+✔Bind Shell and Reverse shell
+✔Host Header Injection Bug
+✔Gone through Infosec Writeups
+
+Day78
+
+✔Completed Networking Room in tryhackme
+✔Shodan Report Generation and Statistics
+✔Nmap Decoy Scan and Spoof MAC address
+✔Python - Sub Process Module to execute system commands
+✔Python - Script to change MAC address automatically
+
+Day79
+
+✔Completed Web Fundamentals Room in tryhackme
+✔Shodan Images & Exploits
+✔Shodan Extension
+✔CPU-Z Installation
+✔Learnt about Breacher tool
+
+
+Day80
+
+✔Completed Shodan Room in tryhackme
+✔Learnt about web cache deception vulnerability
+✔Shell Scripting - Dataflow and wild card commands
+✔Bash - Script to create directory and files automatically
 
 
 
