@@ -3,7 +3,7 @@ My 100 Days Learning Progress
 
 - Divided 100Days into 5 Sections.Find the Section Below!
 
-- Streak Day 75 on 04/11/2020
+- Streak Day 83 on 16/11/2020
 
 ## [Day01 - Day20](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day1-Day20) 
 
@@ -12,3 +12,5 @@ My 100 Days Learning Progress
 ## [Day41 - Day60](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day41-Day60)
 
 ## [Day61 - Day80](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day61%20-%20Day80)
+
+## [Day81 - Day100](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day81-Day100)
