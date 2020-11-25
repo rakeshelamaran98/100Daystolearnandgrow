@@ -76,3 +76,11 @@ Day91
 ✔Username Enumeration Vulnerability
 ✔Curl Command to query http headers
 ✔Blind Xss Exploitation
+
+Day92
+
+✔Incident Handling Stages - Containment and Eradication
+✔Tunneling - Introduction ,SSH and dynamic SSH tunneling
+✔Solved Stored Xss labs in portswigger
+✔DOM Xss Exploitation
+✔Wpscan tool
