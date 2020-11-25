@@ -16,3 +16,63 @@ Day83
 ✔Advanced portscanner tool in python
 ✔Reflected Xss in Email login fields
 ✔Csrf Vulnerability
+
+Day84
+
+✔Completed RootMe Room in tryhackme
+✔Vulnerability scanner program in python
+✔Learnt about GoSpider tool
+✔Xss in Request Headers
+✔Kali Web Shells
+
+Day85
+
+✔How to generate shellcode with msfvenom
+✔Xss in User agent and caching server
+✔Esteem Audit Exploit
+
+Day86
+
+✔Jhead tool - Injecting Images
+✔Completed Basic PenTesting Room in tryhackme
+✔Weevely Tool - Web application post exploitation
+✔Using shell code in exploits - Proftpd Exploit
+✔XSS Protection Bypass
+
+Day87
+
+✔XSS - Steal Login credentials using keylogger
+✔Reported one Bug
+✔Reflected XSS - Manual Balancing
+✔Completed Simple ctf Room in tryhackme
+✔Python Code - Automating Ssh login
+
+Day88
+
+✔XSS Exploitation - Url redirection
+✔Completed git happens Room in tryhackme
+✔Gone through infosec writeups
+✔Python Code - Keylogger Program
+
+Day89
+
+✔XSS Exploitation - File uploads
+✔Information Disclosure - Robots.txt
+✔Account Takeover via Response Manipulation
+✔Xspear tool usage
+
+Day90
+
+✔Completed Ignite Room in TryHackMe
+✔Solved Reflected Xss labs in portswigger
+✔CSRF to account takeover vulnerability
+✔Stored Xss Exploitation
+✔Gitdumper tool
+
+Day91
+
+✔Incident Handling Stages - Preparation and Identification
+✔Solved Sql injection labs in portswigger
+✔Username Enumeration Vulnerability
+✔Curl Command to query http headers
+✔Blind Xss Exploitation
