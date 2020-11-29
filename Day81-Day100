@@ -84,3 +84,26 @@ Day92
 ✔Solved Stored Xss labs in portswigger
 ✔DOM Xss Exploitation
 ✔Wpscan tool
+
+Day93
+
+✔Incident Handling Stages - Recovery and Responsibility
+✔XSS Exploitation by cookie stealing
+✔Pivoting with armitage and metasploit
+✔Assetfinder tool
+
+Day94
+
+✔Completed Web Scanning Room in TryHackMe
+✔Exfiltration - Overview and 10 commandments
+✔Solved csrf labs in portswigger
+✔Csrf vulnerability on email signup
+✔Subfinder tool
+
+Day95
+
+✔Different Exploits in metasploitable - Tomcat,IRC,samba
+✔Cracking Windows and linux password
+✔Learnt how to Chain CSRF With xss
+✔API Security - Introduction
+✔Httprobe tool
