@@ -107,3 +107,20 @@ Day95
 ✔Learnt how to Chain CSRF With xss
 ✔API Security - Introduction
 ✔Httprobe tool
+
+Day96
+
+✔Account takeover due to weak encryption 
+✔API Security - workflow and principles
+✔Splunk - Basics
+✔Waybackurl tool
+✔Completed Hydra Room in TryHackMe
+
+Day97
+
+✔CSRF Vulnerability Mitigations
+✔Solved Information Disclosure labs in portswigger
+✔Python - Dynamic typing
+✔API Security - Best practices
+✔Open redirect to xss vulnerability
+
