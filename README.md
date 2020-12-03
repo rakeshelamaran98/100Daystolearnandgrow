@@ -18,6 +18,6 @@ My 100 Days Learning Progress
 
 ## [Day81 - Day100](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day81-Day100)
 
-## [Day1 - Day100](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day1-Day100)
+## [Complete Challenge > Day1 - Day100](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Day1-Day100)
 
 ## [Highlights](https://github.com/rakeshelamaran98/100Daystolearnandgrow/blob/master/Highlights)
