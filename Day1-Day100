@@ -1,0 +1,702 @@
+Day1
+
+✔️Invited all to #100daystolearnandgrow 
+✔️Signed up TryHackme
+✔️Solved Introductory Researching Room in Tryhackme
+✔️Learnt about Using components with Known Vulnerabilities
+
+Day2
+
+✔️Participated in Google Capture the Flag Event with Jeya Seelan & Surendiran S
+✔️Solved welcome Room in Tryhackme
+✔️Learnt about Different http methods and creating a server
+✔️Basic Routing and Middleware in Express
+
+Day3
+
+✔️Had an Amazing Learning experience and Secured 60th Position Worldwide in Google CTF
+✔️Hunted for Bugs in Bugcrowd but couldn't get any
+✔️Learnt about Oauth Misconfiguration
+
+Day4
+
+✔️Gone through Previous Bug Reports in Hackerone
+✔️Learnt about No Rate Limiting attack
+✔️Different Http Headers
+
+Day5
+
+✔️Tried triggering xss attacks using xss validator tool
+✔️Learnt about Cookies and session ID
+✔️Missing http only and Secure cookies
+
+Day6
+
+✔️Reported Few bugs
+✔️Learnt about Session Fixation
+✔️Touchables,alert api, Geolocation in React Native
+
+Day7
+
+✔️Launched My New Publication Techiepedia in Medium!
+Checkout https://lnkd.in/gQzTHng
+✔️Solved Nmap Room in Tryhackme
+✔️Learnt about Buffer Overflow Attacks
+
+Day8
+
+✔️Got My Hall of Fame😍 in Dell
+✔️Gone through some infosec writeups
+✔️Learnt about JavaScript Functions
+
+Day9
+
+✔️Completed openvpn room in tryhackme
+✔️Components and Processes of Intrusion Detection System
+✔️Learnt about css animations
+
+Day10
+
+✔️Risks of Sensitive Data Exposure
+✔️Honeypots and Firewall
+✔️Learnt about Toggle Class in Javascript
+
+Day11
+
+✔️Basics of Google Dorks
+✔️Solved Sql Injection Lab in PortSwigger
+✔️Learnt about CSS Cards
+
+Day12
+
+✔️Google Dorks different search fields other than URL.
+✔️Reported 2 Bugs.
+✔️Point to point tunneling protocol(PP2P)
+
+Day13
+
+✔️Got My Hall of Fame😍 in Overstock.com
+✔️Network Packet Sniffing
+✔️Learnt about CSS Media Queries
+
+Day14
+
+✔️Hunted for Bugs gone through some infosec reports
+✔️Mail Server Misconfiguration Dmarc and Spf issues
+✔️Learnt about Css transitions
+
+Day15
+
+✔️Got my Hall of Fame😍 in Tripadvisor
+✔️No rate Limiting Targetting Useragent as parameter
+✔️Learnt about Responsive Designing of a webpage
+
+Day16
+
+✔️Wappalyzer extension and it's use
+✔️Learnt about vertical Timeline design
+
+Day17
+
+✔️Got my Hall of Fame in HealthifyMe
+✔️Layer 2 tunnelling (L2TP) and Password authentication protocol (PAP)
+✔️Learnt about Hamburger Menu Design
+
+Day18
+
+✔️Hunted for Bugs
+✔️Gone through some Infosec writeups
+✔️Learnt about jQuery Hover effects
+
+Day19
+
+✔️Reported one Bug
+✔️Ipsec Protocol and Encryption modes
+✔️Learnt about automatic slide show designing using Javascript
+
+
+Day20
+
+✔️Reported one Bug
+✔️Sublist3r Python Recon Tool
+✔️Learnt about Java Class,object,methods and data types
+
+Day21
+
+✔️Got my Hall of Fame in HubSpot
+✔️Exploiting Subdomain takeover
+✔️Learnt about Deploying Website in Netlify
+
+Day22
+
+✔️Gone through bug bounty writeups
+✔️Knockpy tool
+✔️Learnt about Method types , string and its operations,Control flow statements in Java
+
+Day23
+
+✔️Reported one Bug
+✔️Introduction about Dark web
+✔️Learnt about how virus spreads and some virus include shamoon in 2012,Rombertik in 2015,wannacry in 2017
+
+Day24
+
+✔️Got my hall of fame in Under Armour
+✔️Reported one Bug
+✔️Learnt about common types of computer virus
+
+Day25
+
+✔️Got my Hall of fame in WestJet
+✔️Security Policies and Access control
+✔️Learnt about Aws Security Architecture overview
+
+Day26
+
+✔️DirSearch Tool
+✔️Assessing System Security
+✔️Learnt about Code Scanning Tools
+
+
+Day27
+
+✔️Sonarqube - Features,Pros&Cons
+✔️Security Standards - ISO,NIST,GDPR,PCI DSS
+✔️Research regarding android penetration testing
+
+Day28
+
+✔️Reported one Bug
+✔️Physical Security and recovery
+✔️Learnt about Collections - ArrayList, List, HashSet
+
+Day29
+
+✔️Reported 2 bugs
+✔️Got My Hall of Fame in Soundcloud
+✔️Learnt about Static code analysis and reasons to use
+✔️Technical debt
+
+Day30
+
+✔️Reported 2 bugs
+✔️Attackers Techniques
+✔️Difference between the deep web and 
+dark web and their myths
+✔Ways to protect our system from being hacked
+
+Day31
+
+Stepping into Cloud Security -> Share me some good resources if you have anything!
+
+✔️AWS Relational Database Sevice - Features,Instances and Security
+✔️How backups Work - Automatic,Manual
+✔️DB Parameter and option groups
+✔️TOR Security and online anonymity
+
+Day32
+
+✔️Reported 1 bug
+✔️RDS Multi-AZ Deployment
+✔️RDS Sample application architecture and Features
+
+Day33
+
+✔️Using Default credentials bug
+✔️Data Security Mechanism in cloud
+✔️Security planning for cloud 
+
+Day34
+
+✔️Overview of android penetration testing
+✔️Android architecture
+✔️Learnt about Packages,Thread and Multithreading in Java
+
+Day35
+
+✔️Android app development lifecycle and Components
+✔️Android Security architecture
+✔️Overview of Santoku OS
+
+Day36
+
+✔️Setup of Android Penetration Testing
+✔Installed Santoku Operating System
+✔️Overview of Secure coding practices
+
+Day37
+
+✔️Secure Coding Practice Checklist 1 - Input Validation
+✔Installed Genymotion 
+✔️Learnt about Insecure Redirect URI Bug
+
+Day38
+
+✔️Secure Coding Practice Checklist 2 - Output Encoding
+✔️Completed  Learn Linux room in tryhackme - Finding Last flag was Tricky!
+✔Deploy Sonarqube instance in local
+✔️Learnt about JDBC Connectivity,CRUD Operation in SQL and steps to connect
+
+Day39
+
+✔️Secure Coding Practice Checklist 3 - Authentication and password management
+✔️Solved Sql injection UNION attacks lab in portswigger
+✔Android Debug Bridge and its components
+✔️Learnt about how to Connect adb and check connected devices in santoku os
+
+Day40
+
+✔️Secure Coding Practice Checklist 4 - Session Management
+✔️Completed Vulneversity room in tryhackme - Easy and Interesting Room
+✔️Gobuster Directory Tool and Privilege Escalation 
+✔Android Debug Bridge - Find apk,External Storage
+✔️Learnt about how to Install and Uninstall apk in adb shell
+
+Day41
+
+✔️Secure Coding Practice checklist 5 - Access Control
+✔️Android Debug Bridge - Find packages,logs
+✔️Learnt about How to Pull and Push apk in adb shell
+
+Day42
+
+✔️Secure Coding Practice checklist 6 - Cryptographic Practices
+✔️Learnt about Android Startup Process
+✔️Overview of Tails Operating System
+✔️Tor Browser Setup
+✔️Metasploit - Db Creation,connection,Console & Help Commands
+
+Day43
+
+✔️Secure Coding Practice checklist 7- Error Handling and logging
+✔️Learnt about how android application .apk is built and how to extract files
+✔️AWS CloudTrial - Introduction and Usecases 
+✔️Metasploit - Framework Architecture and Modules
+
+Day44
+
+✔️Secure Coding Practice checklist 8- Data Protection
+✔️Learnt about how to decompile android application using Android apk tool
+✔Metasploit - Icecast header,Lhost,Rhost
+✔️Overview of AWS - IAM 
+
+Day45
+
+✔️Secure Coding Practice checklist 9 - Communication Security
+✔️Learnt about how to decompile android application using jadx tool
+✔Spring boot project components
+✔AWS - Restrict Access for user to single s3 Bucket using IAM Policies
+
+Day46
+
+✔️Secure Coding Practice checklist 9 - System Configuration
+✔️Learnt about how to read java Source code and xml files using jadx GUI
+✔Application Signing and Building for an apk
+✔Trape Tool 
+
+Day47
+
+✔️Secure Coding Practice checklist 10 - Database Security
+✔️Dex file structure and how to Analyze Dex files in different methods
+✔Meterpreter help commands
+✔URL Scan & Rapiddns
+
+Day48
+
+✔️Reported One Bug 
+✔️Secure Coding Practice checklist 11 - File Management
+✔Owasp Mobile Top 10
+✔Authentication Bypass Exploitation - Captcha Bypass
+✔Unlocked 7Days Streak Badge in TryHackme
+
+Day49
+
+✔️Secure Coding Practice checklist 12 - Memory Management & General Coding Practices
+✔Authentication Bypass Exploitation - Account Takeover Based on User Id
+✔AWS Cloudfront Origin Access Identity
+
+Day50
+
+✔️Android Traffic analysis and Interception
+✔️Adding additional security in AWS S3
+✔️Gone through Bug Reports
+
+Day51
+
+✔ShellPhish tool
+✔IDN Homograph Attack
+✔️Damn Insecure and vulnerable App - Overview
+✔SEO SiteCheckup Checklist - Issues & Tests
+
+Day52
+
+✔Got My Hall of fame in Better
+✔Cloud Design Priciples
+✔️AWS Shared responsibiblity model - Overview
+✔Mitre attack repository
+
+Day53
+
+✔Reported One Bug
+✔AWS Data Center Security,Complaince and Governance
+✔Configured BurpSuite With Genymotion
+✔Malware Detection - Indicators of compromise
+
+Day54
+
+✔Reported One Bug
+✔AWS S3 Bucket misconfiguration
+✔Advanced Techniques of Malware
+✔AWS Entry Points,Identity and Access Management
+✔Learnt Authentication Bypass due to OTP Exposure
+
+Day55
+
+✔AWS Detective Controls ,Infrastructure and Data Protection
+✔AWS Incident Response & DDOS Mitigation
+✔Reverse Engineering Malware 
+
+Day56
+
+✔Got My Hall of fame in You need a budget
+✔Learnt about Weak Session Expiry Bug
+✔Gone through Infosec Writeups
+✔AWS Well architectured tool
+✔Reported One Bug
+
+Day57
+
+✔Challenges of onpremises Workloads
+✔Learnt about S3 Knock tool
+✔DIVA - Insecure logging 
+✔Reported One Bug 
+
+Day58
+
+✔Security in the AWS cloud & Design Principles
+✔Got My Hall of fame in Pantheon
+✔Aspects of Android Security
+✔DIVA - Hardcoding issues
+✔Reported two Bugs
+
+Day59
+✔Different techniques of Google Search Dorks
+✔Mobile Security Framework - Overview
+✔DIVA - Insecure Data Storage
+✔AWS Security Hub
+✔Reported One Bug
+
+Day60
+
+✔Email Enumeration using Nmap
+✔DIVA -  Database Insecure Storage
+✔Openssl and git Setup in windows
+✔AWS Cognito
+✔Reported One Bug
+
+
+Day61
+
+✔Learnt how to create Payload in metasploit and Exploit
+✔DIVA - Temporary Files & External Data Insecure Storage
+✔Completed Metasploit Room in TryHackme
+✔AWS Web Application firewall and shield
+✔Ip address spoofing
+
+Day62
+
+✔Learnt about Cookie Stealing during login
+✔Completed Google Dorking Room in TryHackme
+✔Authentication Bypass - Mitigations
+✔DIVA - Input validation issues
+✔Local File inclusion attack
+
+Day63
+
+✔Learnt about Socket Cat
+✔How to add Our own Google Dorks
+✔Completed Inclusion Room in TryHackme
+✔DIVA - Sql injection & Abusing Web view
+
+Day64
+
+✔Mobile Security Framework - Installation
+✔How to Create Simple Port Scanner in Python
+✔Different attacks in Metasploit
+✔Contributed My First Pull request in #hacktoberfest2020
+✔DIVA - Access Control Issues
+
+Day65
+
+✔Scanning Target Applications in MobSF
+✔Manifest Analysis & Code Analysis 
+✔Github Recon - Automated and Manual way
+✔AAA Security Concepts
+✔Contributed My Second Pull request in #hacktoberfest2020
+
+
+Day66
+
+✔Software and Infrastructure Attack Vectors
+✔Cloud Deployment and Service models
+✔Adb Logs and Permissions commands
+✔Shodan Install and Setup
+✔Created a Repo Hacktoberfest and accepting Contributions from anyone
+
+Day67
+
+✔DIVA - Authentication Based Access control issues
+✔Shodan API Setup and Basic Commands
+✔Shodanhat tool
+
+Day68
+
+✔DIVA - Leaking Content Provider
+✔Completed CSA 1 Course
+✔Learnt about Strings.xml file for an app
+✔Learnt Session id not changing on logon Bug
+
+
+Day69
+
+✔NIST Framework Core Functions
+✔Completed #hacktoberfest2020 challenge
+✔AWS - Key Management Service
+✔Fuzzing and Sensitive File Enumeration
+
+Day70
+
+✔Insider Threat - Detection and Prevention
+✔AWS - Certificate Manager
+✔Oauth 2.0 and openID Connect - Overview
+✔Raw Input in python
+
+Day71
+
+✔How to Discover Subdomains using Project Discovery
+✔Learnt how to enumerate Sub-domain,Status code & CIDR
+✔Python Functions and loops
+✔Httpx tool usage
+
+Day72
+
+✔Learnt about .bashrc file
+✔Intents and Intent filter in android
+✔Command Line arguments in python
+✔Starting a process in the background using Nohup
+
+Day73
+
+✔Learnt about Way back machine
+✔Cloud agility and cloud Resiliency
+✔Built a python tool that scans the first 1000 ports
+
+Day74
+
+✔DIVA - Hardcoding Issues using JNI
+✔Learnt about Java Native Interface
+✔Termux - Overview and Features
+✔Reported one Bug
+✔Shodan Search query
+
+Day75
+
+✔Started Learning Shell scripting - Introduction and how shell commands working
+✔Termux - Installation and Package Management
+✔DIVA - Dos attack using memory corruption issue
+✔Learnt about Skipfish tool
+
+Day76
+
+✔Learnt about crt.sh - Certificate Search
+✔Basic Shell Scripting commands
+✔Reported one Bug
+
+Day77
+
+✔Basic Termux Commands
+✔Learnt about F-Droid
+✔Bind Shell and Reverse shell
+✔Host Header Injection Bug
+✔Gone through Infosec Writeups
+
+Day78
+
+✔Completed Networking Room in tryhackme
+✔Shodan Report Generation and Statistics
+✔Nmap Decoy Scan and Spoof MAC address
+✔Python - Sub Process Module to execute system commands
+✔Python - Script to change MAC address automatically
+
+Day79
+
+✔Completed Web Fundamentals Room in tryhackme
+✔Shodan Images & Exploits
+✔Shodan Extension
+✔CPU-Z Installation
+✔Learnt about Breacher tool
+
+Day80
+
+✔Completed Shodan Room in tryhackme
+✔Learnt about web cache deception vulnerability
+✔Shell Scripting - Dataflow and wild card commands
+✔Bash - Script to create directory and files automatically
+
+Day81
+✔Completed Introductory Networking Room in TryHackMe
+✔Schedule automatic tasks with crontab
+✔Learnt about API hooking
+
+Day82
+
+✔Learnt about Java Debugger
+✔Creating a script with a script
+✔Drozer Security Framework
+
+Day83
+
+✔Python Optparse - To display usage and help messages
+✔Advanced portscanner tool in python
+✔Reflected Xss in Email login fields
+✔Csrf Vulnerability
+
+Day84
+
+✔Completed RootMe Room in tryhackme
+✔Vulnerability scanner program in python
+✔Learnt about GoSpider tool
+✔Xss in Request Headers
+✔Kali Web Shells
+
+Day85
+
+✔How to generate shellcode with msfvenom
+✔Xss in User agent and caching server
+✔Esteem Audit Exploit
+
+Day86
+
+✔Jhead tool - Injecting Images
+✔Completed Basic PenTesting Room in tryhackme
+✔Weevely Tool - Web application post exploitation
+✔Using shell code in exploits - Proftpd Exploit
+✔XSS Protection Bypass
+
+Day87
+
+✔XSS - Steal Login credentials using keylogger
+✔Reported one Bug
+✔Reflected XSS - Manual Balancing
+✔Completed Simple ctf Room in tryhackme
+✔Python Code - Automating Ssh login
+
+Day88
+
+✔XSS Exploitation - Url redirection
+✔Completed git happens Room in tryhackme
+✔Gone through infosec writeups
+✔Python Code - Keylogger Program
+
+Day89
+
+✔XSS Exploitation - File uploads
+✔Information Disclosure - Robots.txt
+✔Account Takeover via Response Manipulation
+✔Xspear tool usage
+
+Day90
+
+✔Completed Ignite Room in TryHackMe
+✔Solved Reflected Xss labs in portswigger
+✔CSRF to account takeover vulnerability
+✔Stored Xss Exploitation
+✔Gitdumper tool
+
+Day91
+
+✔Incident Handling Stages - Preparation and Identification
+✔Solved Sql injection labs in portswigger
+✔Username Enumeration Vulnerability
+✔Curl Command to query http headers
+✔Blind Xss Exploitation
+
+Day92
+
+✔Incident Handling Stages - Containment and Eradication
+✔Tunneling - Introduction ,SSH and dynamic SSH tunneling
+✔Solved Stored Xss labs in portswigger
+✔DOM Xss Exploitation
+✔Wpscan tool
+
+Day93
+
+✔Incident Handling Stages - Recovery and Responsibility
+✔XSS Exploitation by cookie stealing
+✔Pivoting with armitage and metasploit
+✔Assetfinder tool
+
+Day94
+
+✔Completed Web Scanning Room in TryHackMe
+✔Exfiltration - Overview and 10 commandments
+✔Solved csrf labs in portswigger
+✔Csrf vulnerability on email signup
+✔Subfinder tool
+
+Day95
+
+✔Different Exploits in metasploitable - Tomcat,IRC,samba
+✔Cracking Windows and linux password
+✔Learnt how to Chain CSRF With xss
+✔API Security - Introduction
+✔Httprobe tool
+
+Day96
+
+✔Account takeover due to weak encryption 
+✔API Security - workflow and principles
+✔Splunk - Basics
+✔Waybackurl tool
+✔Completed Hydra Room in TryHackMe
+
+Day97
+
+✔CSRF Vulnerability Mitigations
+✔Solved Information Disclosure labs in portswigger
+✔Python - Dynamic typing
+✔API Security - Best practices
+✔Open redirect to xss vulnerability
+
+Day98
+
+✔API Security - Owasp Top10
+✔Rest API - overview
+✔Postman Tool setup and overview
+✔Solved Authentication labs in portswigger
+✔Learnt about CORS Vulnerability
+
+Day99
+
+✔API Security - Checklist
+✔Soap API - overview
+✔Postman - Collections,variables & Environments
+✔Solved overpass room in tryhackme
+✔CORS Exploitation
+
+Day100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
